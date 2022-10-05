@@ -13,7 +13,7 @@ Duration : **5 Hours**
 Explored `CSS flexbox` ,get command over different flexbox properties  of container and items  and also get to  learn  in depth understanding of `psuedo selectors`  like `::before` and `::after`. 
 
 ## Deployed Link
- [click here to see deployed version](https://street-style-link.netlify.app/ "Click to Visit Link") 
+ [click here to see deployed version](https://interior-design-home-page-link.netlify.app/ "Click to Visit Link") 
 
 
 ## Screenshots
